@@ -59,9 +59,14 @@ Prophet achieved the lowest overall error across all metrics, while LSTM also pe
 
 ### Forecast Examples
 
-| Baseline | Prophet | LSTM |
-|-----------|----------|------|
-| <img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/9c75035e-a35e-4aa8-a04a-572a8f7508d2" /> | <img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/6027f41b-02b6-4bef-b3da-06901425f7d0" /> | <img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/7eb9252f-7c54-4196-b732-183856613a7e" /> |
+**Baseline Forecast**
+<img width="1000" height="490" alt="image" src="https://github.com/user-attachments/assets/9c75035e-a35e-4aa8-a04a-572a8f7508d2" /> 
+
+**Prophet Forecast**
+<img width="1000" height="490" alt="image" src="https://github.com/user-attachments/assets/6027f41b-02b6-4bef-b3da-06901425f7d0" /> 
+
+**LSTM Forecast**
+<img width="1000" height="490" alt="image" src="https://github.com/user-attachments/assets/7eb9252f-7c54-4196-b732-183856613a7e" /> 
 
 ### Aggregated Metrics Visualization  
 <img width="590" height="290" alt="image" src="https://github.com/user-attachments/assets/4ad3f0cd-8b54-48a1-a0df-9e8a58b1904e" />
