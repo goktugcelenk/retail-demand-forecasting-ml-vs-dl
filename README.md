@@ -7,7 +7,7 @@ Developed to demonstrate data preprocessing, temporal modeling, and model evalua
 
 ## Overview
 
-This project investigates short-term demand forecasting at the store–item level.  
+This project investigates short-term demand forecasting at the store-item level.  
 The objective is to predict daily sales, evaluate model performance, and visualize temporal dynamics in a clear and interpretable way.
 
 ---
