@@ -14,7 +14,7 @@ The objective is to predict daily sales, evaluate model performance, and visuali
 
 ## Objective
 
-- Forecast daily product-level demand for multiple stores.  
+- Forecast daily product level demand for multiple stores.  
 - Compare statistical and deep learning models.  
 - Evaluate performance using MAE, RMSE, and MAPE.  
 - Ensure transparency and reproducibility in the modeling workflow.
